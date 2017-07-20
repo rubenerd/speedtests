@@ -1,0 +1,23 @@
+{
+  "bytes_sent": 10616832,
+  "download": 14476771.406269588,
+  "timestamp": "2017-07-20T04:04:52.728851Z",
+  "share": null,
+  "bytes_received": 18748912,
+  "ping": 17.233,
+  "upload": 6948932.028324443,
+  "server": {
+    "latency": 17.233,
+    "name": "Hong Kong",
+    "url": "http://www.suntechspeedtest.com/speedtest/upload.jsp",
+    "country": "China",
+    "lon": "114.1667",
+    "cc": "HK",
+    "host": "www.suntechspeedtest.com:8080",
+    "sponsor": "STC",
+    "url2": "http://203.198.23.168/speedtest/upload.jsp",
+    "lat": "22.2500",
+    "id": "1536",
+    "d": 4.872107226548118
+  }
+}
