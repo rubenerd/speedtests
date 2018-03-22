@@ -1,0 +1,34 @@
+{
+   "client":{
+      "rating":"0",
+      "loggedin":"0",
+      "isprating":"3.7",
+      "ispdlavg":"0",
+      "ip":"222.228.90.224",
+      "isp":"ARTERIA Networks Corporation",
+      "lon":"139.7514",
+      "ispulavg":"0",
+      "country":"JP",
+      "lat":"35.685"
+   },
+   "bytes_sent":59457536,
+   "download":58774935.18066296,
+   "timestamp":"2018-03-18T00:41:46.849807Z",
+   "share":null,
+   "bytes_received":73782836,
+   "ping":12.93,
+   "upload":42029172.80238652,
+   "server":{
+      "latency":12.93,
+      "name":"Bunkyo",
+      "url":"http://speed.coe.ad.jp/upload.php",
+      "country":"Japan",
+      "lon":"139.7522",
+      "cc":"JP",
+      "host":"speed.coe.ad.jp:8080",
+      "sponsor":"IPA CyberLab",
+      "lat":"35.7081",
+      "id":"14623",
+      "d":2.569618530339375
+   }
+}
