@@ -1,0 +1,23 @@
+{
+  "bytes_sent": 65544192,
+  "download": 66125671.394197114,
+  "timestamp": "2017-09-12T08:14:28.436451Z",
+  "share": null,
+  "bytes_received": 83562036,
+  "ping": 3.014,
+  "upload": 49612816.08112028,
+  "server": {
+    "latency": 3.014,
+    "name": "Melbourne",
+    "url": "http://my1.speedtest.vodafone.com.au/speedtest/upload.php",
+    "country": "Australia",
+    "lon": "144.9631",
+    "cc": "AU",
+    "host": "my1.speedtest.vodafone.com.au:8080",
+    "sponsor": "Vodafone Hutchison Australia (MY)",
+    "url2": "http://my2.speedtest.vodafone.com.au/speedtest/upload.php",
+    "lat": "-37.8136",
+    "id": "4052",
+    "d": 0.04251226849786086
+  }
+}
