@@ -1,0 +1,23 @@
+{
+  "bytes_sent": 59924480,
+  "download": 70836364.2597875,
+  "timestamp": "2017-08-30T10:05:08.923215Z",
+  "share": null,
+  "bytes_received": 89157996,
+  "ping": 36.28,
+  "upload": 39001885.0895747,
+  "server": {
+    "latency": 36.28,
+    "name": "Sydney",
+    "url": "http://syd1.speedtest.telstra.net/speedtest/upload.php",
+    "country": "Australia",
+    "lon": "151.2111",
+    "cc": "AU",
+    "host": "syd1.speedtest.telstra.net:8080",
+    "sponsor": "Telstra",
+    "url2": "http://syd2.speedtest.telstra.net/speedtest/upload.php",
+    "lat": "-33.8600",
+    "id": "2629",
+    "d": 248.16825980797574
+  }
+}
