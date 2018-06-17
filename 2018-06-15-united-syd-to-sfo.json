@@ -1,38 +1,36 @@
 {
-    "client":
-    {
-        "rating": "0",
-        "loggedin": "0",
-        "isprating": "3.7",
-        "ispdlavg": "0",
-        "ip": "104.153.224.166",
-        "isp": "Hibernia Networks (Netherlands) BV",
-        "lon": "-118.244",
-        "ispulavg": "0",
-        "country": "US",
-        "lat": "34.0544"
-    },
-    "bytes_sent": 1482752,
-    "download": 199647.8853466101,
-    "timestamp": "2018-06-15T03:28:07.149197Z",
-    "share": null,
-    "bytes_received": 583680,
-    "ping": 1194.271,
-    "upload": 761445.8092460975,
-    "server":
-    {
-        "latency": 1194.271,
-        "name": "Los Angeles, CA",
-        "url": "http://lsanca-speedtest-01-a.socal.rr.com/speedtest/upload.php",
-        "country": "United States",
-        "lon": "-118.2500",
-        "cc": "US",
-        "host": "speedtest.socal.rr.com:8080",
-        "sponsor": "Time Warner Cable",
-        "url2": "http://lsanca-speedtest-01-b.socal.rr.com/speedtest/upload.php",
-        "lat": "34.0500",
-        "id": "5827",
-        "d": 0.7381910977320902
-    }
+  "client": {
+    "rating": "0",
+    "loggedin": "0",
+    "isprating": "3.7",
+    "ispdlavg": "0",
+    "ip": "104.153.224.166",
+    "isp": "Hibernia Networks (Netherlands) BV",
+    "lon": "-118.244",
+    "ispulavg": "0",
+    "country": "US",
+    "lat": "34.0544"
+  },
+  "bytes_sent": 1482752,
+  "download": 199647.8853466101,
+  "timestamp": "2018-06-15T03:28:07.149197Z",
+  "share": null,
+  "bytes_received": 583680,
+  "ping": 1194.271,
+  "upload": 761445.8092460975,
+  "server": {
+    "latency": 1194.271,
+    "name": "Los Angeles, CA",
+    "url": "http://lsanca-speedtest-01-a.socal.rr.com/speedtest/upload.php",
+    "country": "United States",
+    "lon": "-118.2500",
+    "cc": "US",
+    "host": "speedtest.socal.rr.com:8080",
+    "sponsor": "Time Warner Cable",
+    "url2": "http://lsanca-speedtest-01-b.socal.rr.com/speedtest/upload.php",
+    "lat": "34.0500",
+    "id": "5827",
+    "d": 0.7381910977320902
+  }
 }
 
