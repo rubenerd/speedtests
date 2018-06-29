@@ -1,0 +1,34 @@
+{
+  "client": {
+    "rating": "0",
+    "loggedin": "0",
+    "isprating": "3.7",
+    "ispdlavg": "0",
+    "ip": "52.119.119.224",
+    "isp": "MonkeyBrains",
+    "lon": "-122.3933",
+    "ispulavg": "0",
+    "country": "US",
+    "lat": "37.7697"
+  },
+  "bytes_sent": 28434432,
+  "download": 50833818.55062179,
+  "timestamp": "2018-06-29T16:29:59.815697Z",
+  "share": null,
+  "bytes_received": 77082082,
+  "ping": 15.457,
+  "upload": 22557409.136091907,
+  "server": {
+    "latency": 15.457,
+    "name": "San Francisco, CA",
+    "url": "http://www.unwiredltd.com/speedtest/upload.php",
+    "country": "United States",
+    "lon": "-122.4183",
+    "cc": "US",
+    "host": "www.unwiredltd.com:8080",
+    "sponsor": "Unwired",
+    "lat": "37.7750",
+    "id": "603",
+    "d": 2.275010398324644
+  }
+}
