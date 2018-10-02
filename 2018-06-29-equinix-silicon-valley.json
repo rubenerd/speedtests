@@ -1,0 +1,35 @@
+{
+  "client": {
+    "rating": "0",
+    "loggedin": "0",
+    "isprating": "3.7",
+    "ispdlavg": "0",
+    "ip": "64.191.195.250",
+    "isp": "Equinix",
+    "lon": "-121.895",
+    "ispulavg": "0",
+    "country": "US",
+    "lat": "37.3394"
+  },
+  "bytes_sent": 23068672,
+  "download": 84102861.80546725,
+  "timestamp": "2018-06-29T19:01:55.010075Z",
+  "share": null,
+  "bytes_received": 105759496,
+  "ping": 8.992,
+  "upload": 13132314.462209495,
+  "server": {
+    "latency": 8.992,
+    "name": "San Jose, CA",
+    "url": "http://sjc.speedtest.net/speedtest/upload.php",
+    "country": "United States",
+    "lon": "-121.8727",
+    "cc": "US",
+    "host": "sjc.host.speedtest.net:8080",
+    "sponsor": "Speedtest.net",
+    "url2": "http://sjc2.speedtest.net/speedtest/upload.php",
+    "lat": "37.3041",
+    "id": "10384",
+    "d": 4.392667096185224
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "client": {
+    "rating": "0",
+    "loggedin": "0",
+    "isprating": "3.7",
+    "ispdlavg": "0",
+    "ip": "104.1.91.204",
+    "isp": "AT&T U-verse",
+    "lon": "-122.4194",
+    "ispulavg": "0",
+    "country": "US",
+    "lat": "37.7749"
+  },
+  "bytes_sent": 2097152,
+  "download": 3035717.8744849702,
+  "timestamp": "2018-07-16T05:00:35.108929Z",
+  "share": null,
+  "bytes_received": 4030400,
+  "ping": 22.704,
+  "upload": 1009969.5863790576,
+  "server": {
+    "latency": 22.704,
+    "name": "San Francisco, CA",
+    "url": "http://stosat-scla-01.sys.comcast.net/speedtest/upload.php",
+    "country": "United States",
+    "lon": "-122.4183",
+    "cc": "US",
+    "host": "stosat-scla-01.sys.comcast.net:8080",
+    "sponsor": "Comcast",
+    "url2": "http://stosat-scla-01.sys.comcast.net/speedtest/upload.php",
+    "lat": "37.7750",
+    "id": "1783",
+    "d": 0.09731746197557602
+  }
+}

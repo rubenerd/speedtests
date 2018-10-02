@@ -1,0 +1,35 @@
+{
+  "client": {
+    "rating": "0",
+    "loggedin": "0",
+    "isprating": "3.7",
+    "ispdlavg": "0",
+    "ip": "166.255.161.194",
+    "isp": "Verizon Wireless",
+    "lon": "-121.8306",
+    "ispulavg": "0",
+    "country": "US",
+    "lat": "37.2828"
+  },
+  "bytes_sent": 23707648,
+  "download": 8046849.894186642,
+  "timestamp": "2018-07-19T00:54:33.466550Z",
+  "share": null,
+  "bytes_received": 10595272,
+  "ping": 83.939,
+  "upload": 18834556.835601613,
+  "server": {
+    "latency": 83.939,
+    "name": "San Jose, CA",
+    "url": "http://sjc.speedtest.net/speedtest/upload.php",
+    "country": "United States",
+    "lon": "-121.8727",
+    "cc": "US",
+    "host": "sjc.host.speedtest.net:8080",
+    "sponsor": "Speedtest.net",
+    "url2": "http://sjc2.speedtest.net/speedtest/upload.php",
+    "lat": "37.3041",
+    "id": "10384",
+    "d": 4.413510620790557
+  }
+}

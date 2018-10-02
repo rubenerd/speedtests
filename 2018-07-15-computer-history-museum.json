@@ -1,0 +1,35 @@
+{
+  "client": {
+    "rating": "0",
+    "loggedin": "0",
+    "isprating": "3.7",
+    "ispdlavg": "0",
+    "ip": "64.71.18.60",
+    "isp": "WiLine Networks",
+    "lon": "-122.2364",
+    "ispulavg": "0",
+    "country": "US",
+    "lat": "37.4852"
+  },
+  "bytes_sent": 100876288,
+  "download": 46210757.01362775,
+  "timestamp": "2018-07-15T21:30:50.074628Z",
+  "share": null,
+  "bytes_received": 58869795,
+  "ping": 9.555,
+  "upload": 80207854.77621672,
+  "server": {
+    "latency": 9.555,
+    "name": "Palo Alto, CA",
+    "url": "http://speedtest-pa.singnet.com.sg/speedtest/upload.php",
+    "country": "United States",
+    "lon": "-122.1419",
+    "cc": "US",
+    "host": "speedtest-pa.singnet.com.sg:8080",
+    "sponsor": "SingTel",
+    "url2": "http://speedtest-pa2.singnet.com.sg/speedtest/upload.php",
+    "lat": "37.4419",
+    "id": "2761",
+    "d": 9.630507693851877
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "client" : {
+    "isp" : "Australia Pacific Airports (Melbourne) Pty",
+    "isprating" : "3.7",
+    "ispulavg" : "0",
+    "ip" : "183.177.122.38",
+    "lat" : "-37.75",
+    "ispdlavg" : "0",
+    "country" : "AU",
+    "rating" : "0",
+    "loggedin" : "0",
+    "lon" : "144.9667"
+  },
+  "timestamp" : "2018-10-02T06:43:37.111510Z",
+  "upload" : 119644931.486683,
+  "bytes_received" : 41864193,
+  "ping" : 41.273,
+  "download" : 33244457.2937685,
+  "server" : {
+    "cc" : "AU",
+    "id" : "9108",
+    "country" : "Australia",
+    "url" : "http://speedtest.ebw.optusnet.com.au/speedtest/upload.php",
+    "url2" : "http://www.speedtest.ebw.optusnet.com.au/speedtest/upload.php",
+    "lon" : "144.9631",
+    "host" : "speedtest.ebw.optusnet.com.au:8080",
+    "sponsor" : "Optus",
+    "latency" : 41.273,
+    "lat" : "-37.8136",
+    "d" : 7.07907066830611,
+    "name" : "Burwood East"
+  },
+  "share" : null,
+  "bytes_sent" : 142606336
+}

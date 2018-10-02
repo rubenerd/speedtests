@@ -1,0 +1,34 @@
+{
+  "client": {
+    "rating": "0",
+    "loggedin": "0",
+    "isprating": "3.7",
+    "ispdlavg": "0",
+    "ip": "216.9.110.11",
+    "isp": "San Francisco International Airport",
+    "lon": "-122.3802",
+    "ispulavg": "0",
+    "country": "US",
+    "lat": "37.6198"
+  },
+  "bytes_sent": 30892032,
+  "download": 27157226.236841198,
+  "timestamp": "2018-07-19T04:22:24.352779Z",
+  "share": null,
+  "bytes_received": 34406148,
+  "ping": 12.855,
+  "upload": 22246023.480504,
+  "server": {
+    "latency": 12.855,
+    "name": "San Francisco, CA",
+    "url": "http://sfo.speedtest.sbcglobal.net/speedtest/upload.php",
+    "country": "United States",
+    "lon": "-122.4183",
+    "cc": "US",
+    "host": "sfo.speedtest.sbcglobal.net:8080",
+    "sponsor": "AT&T",
+    "lat": "37.7750",
+    "id": "5026",
+    "d": 17.580005951240306
+  }
+}

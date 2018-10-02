@@ -1,0 +1,35 @@
+{
+  "client": {
+    "rating": "0",
+    "loggedin": "0",
+    "isprating": "3.7",
+    "ispdlavg": "0",
+    "ip": "108.60.48.116",
+    "isp": "Bel Air Internet, LLC",
+    "lon": "-118.278",
+    "ispulavg": "0",
+    "country": "US",
+    "lat": "34.0584"
+  },
+  "bytes_sent": 20430848,
+  "download": 21816883.073732764,
+  "timestamp": "2018-07-13T06:02:38.148291Z",
+  "share": null,
+  "bytes_received": 27760664,
+  "ping": 7.782,
+  "upload": 15632384.19898962,
+  "server": {
+    "latency": 7.782,
+    "name": "Los Angeles, CA",
+    "url": "http://s1.lax.speedtest.interoute.net/speedtest/upload.php",
+    "country": "United States",
+    "lon": "-118.2500",
+    "cc": "US",
+    "host": "lax.speedtest.interoute.net:8080",
+    "sponsor": "Interoute VDC",
+    "url2": "http://s2.lax.speedtest.interoute.net/speedtest/upload.php",
+    "lat": "34.0500",
+    "id": "10269",
+    "d": 2.743424433136181
+  }
+}
