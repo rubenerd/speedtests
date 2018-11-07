@@ -1,0 +1,36 @@
+{
+  "client": {
+    "rating": "0",
+    "loggedin": "0",
+    "isprating": "3.7",
+    "ispdlavg": "0",
+    "ip": "115.70.208.154",
+    "isp": "Exetel",
+    "lon": "151.1764",
+    "ispulavg": "0",
+    "country": "AU",
+    "lat": "-33.8897"
+  },
+  "bytes_sent": 49651712,
+  "download": 152604096.74345353,
+  "timestamp": "2018-11-07T05:16:34.274808Z",
+  "share": null,
+  "bytes_received": 194830854,
+  "ping": 9.44,
+  "upload": 39451579.48368638,
+  "server": {
+    "latency": 9.44,
+    "name": "Sydney",
+    "url": "http://nsw-brwy-speedtest.aarnet.net.au/speedtest/upload.php",
+    "country": "Australia",
+    "lon": "151.2111",
+    "cc": "AU",
+    "host": "nsw-brwy-speedtest.aarnet.net.au:8080",
+    "sponsor": "AARNet",
+    "url2": "http://nsw-brwy-st1.aarnet.net.au/speedtest/upload.php",
+    "lat": "-33.8600",
+    "id": "6355",
+    "d": 4.600973272598229
+  }
+}
+
