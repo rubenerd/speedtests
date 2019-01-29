@@ -1,0 +1,34 @@
+{
+  "client": {
+    "rating": "0",
+    "loggedin": "0",
+    "isprating": "3.7",
+    "ispdlavg": "0",
+    "ip": "103.237.136.216",
+    "isp": "Optus",
+    "lon": "152.991",
+    "ispulavg": "0",
+    "country": "AU",
+    "lat": "-27.2259"
+  },
+  "bytes_sent": 5242880,
+  "download": 643651.37070853,
+  "timestamp": "2018-10-08T21:04:13.578212Z",
+  "share": null,
+  "bytes_received": 1105920,
+  "ping": 607.082,
+  "upload": 3912216.4236089,
+  "server": {
+    "latency": 607.082,
+    "name": "Brisbane",
+    "url": "http://speedtest.dc3.vmvault.com.au/speedtest/upload.php",
+    "country": "Australia",
+    "lon": "153.0278",
+    "cc": "AU",
+    "host": "speedtest.dc3.vmvault.com.au:8080",
+    "sponsor": "VMvault",
+    "lat": "-27.4679",
+    "id": "11881",
+    "d": 27.153531494754
+  }
+}
