@@ -1,0 +1,34 @@
+{
+  "client": {
+    "rating": "0",
+    "loggedin": "0",
+    "isprating": "3.7",
+    "ispdlavg": "0",
+    "ip": "103.5.142.125",
+    "isp": "Wire and Wireless Co.,Ltd.",
+    "lon": "139.7532",
+    "ispulavg": "0",
+    "country": "JP",
+    "lat": "35.6882"
+  },
+  "bytes_sent": 12197888,
+  "download": 36875180.843639255,
+  "timestamp": "2019-03-28T00:27:38.468473Z",
+  "share": null,
+  "bytes_received": 46205953,
+  "ping": 27.51,
+  "upload": 9001957.79754958,
+  "server": {
+    "latency": 27.51,
+    "name": "Tokyo",
+    "url": "http://jp.as.speedtest.i3d.net/speedtest/upload.php",
+    "country": "Japan",
+    "lon": "139.6833",
+    "cc": "JP",
+    "host": "jp.as.speedtest.i3d.net:8080",
+    "sponsor": "i3D.net",
+    "lat": "35.6833",
+    "id": "21569",
+    "d": 6.336536019993832
+  }
+}
