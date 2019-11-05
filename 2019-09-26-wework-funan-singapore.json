@@ -1,0 +1,35 @@
+{
+  "download": 5022122.534422666,
+  "upload": 31908172.984166004,
+  "ping": 14.364,
+  "server": {
+    "url": "http://co2speedtest1.starhub.com/legacy/upload.php",
+    "lat": "1.3000",
+    "lon": "103.8000",
+    "name": "Singapore",
+    "country": "Singapore",
+    "cc": "SG",
+    "sponsor": "StarHub Mobile Pte Ltd",
+    "id": "4235",
+    "url2": "http://co2speedtest2.starhub.com/legacy/upload.php",
+    "host": "broadbandspeedtestuat.starhub.com:8080",
+    "d": 5.526075572414872,
+    "latency": 14.364
+  },
+  "timestamp": "2019-09-26T10:28:51.389395Z",
+  "bytes_sent": 41205760,
+  "bytes_received": 9982724,
+  "share": null,
+  "client": {
+    "ip": "203.117.162.194",
+    "lat": "1.2929",
+    "lon": "103.8492",
+    "isp": "StarHub",
+    "isprating": "3.7",
+    "rating": "0",
+    "ispdlavg": "0",
+    "ispulavg": "0",
+    "loggedin": "0",
+    "country": "SG"
+  }
+}

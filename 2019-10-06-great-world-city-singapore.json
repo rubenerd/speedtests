@@ -1,0 +1,35 @@
+{
+  "download": 1827579.7708440502,
+  "upload": 1953567.2950429257,
+  "ping": 30.479,
+  "server": {
+    "url": "http://sg-speedtest.fast.net.id:8080/speedtest/upload.php",
+    "lat": "1.3000",
+    "lon": "103.8000",
+    "name": "Singapore",
+    "country": "Republic of Singapore",
+    "cc": "SG",
+    "sponsor": "PT FirstMedia",
+    "id": "7556",
+    "url2": "http://sg-speedtest.link.net.id/speedtest/upload.php",
+    "host": "sg-speedtest.fast.net.id:8080",
+    "d": 7.760288437856217,
+    "latency": 30.479
+  },
+  "timestamp": "2019-10-06T04:57:19.470136Z",
+  "bytes_sent": 3235840,
+  "bytes_received": 4118776,
+  "share": null,
+  "client": {
+    "ip": "61.8.221.146",
+    "lat": "1.3605",
+    "lon": "103.8348",
+    "isp": "StarHub",
+    "isprating": "3.7",
+    "rating": "0",
+    "ispdlavg": "0",
+    "ispulavg": "0",
+    "loggedin": "0",
+    "country": "SG"
+  }
+}

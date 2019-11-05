@@ -1,0 +1,34 @@
+{
+  "download": 745546.5077490631,
+  "upload": 1581244.120419702,
+  "ping": 32.889,
+  "server": {
+    "url": "http://speedtest.u.com.my:8080/speedtest/upload.php",
+    "lat": "3.1357",
+    "lon": "101.6880",
+    "name": "Kuala Lumpur",
+    "country": "Malaysia",
+    "cc": "MY",
+    "sponsor": "U Mobile",
+    "id": "1848",
+    "host": "speedtest.u.com.my:8080",
+    "d": 0.5426552950520215,
+    "latency": 32.889
+  },
+  "timestamp": "2019-09-30T15:06:49.337936Z",
+  "bytes_sent": 2605056,
+  "bytes_received": 1197708,
+  "share": null,
+  "client": {
+    "ip": "202.186.233.174",
+    "lat": "3.1397",
+    "lon": "101.6852",
+    "isp": "Tt Dotcom Sdn Bhd",
+    "isprating": "3.7",
+    "rating": "0",
+    "ispdlavg": "0",
+    "ispulavg": "0",
+    "loggedin": "0",
+    "country": "MY"
+  }
+}

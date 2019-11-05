@@ -1,0 +1,34 @@
+{
+  "download": 76336208.05114879,
+  "upload": 52740376.12597899,
+  "ping": 44.648,
+  "server": {
+    "url": "http://www.speedtest.com.sg:8080/speedtest/upload.php",
+    "lat": "1.3000",
+    "lon": "103.8000",
+    "name": "Singapore",
+    "country": "Republic of Singapore",
+    "cc": "SG",
+    "sponsor": "NewMedia Express",
+    "id": "367",
+    "host": "www.speedtest.com.sg:8080",
+    "d": 9.764469871046655,
+    "latency": 44.648
+  },
+  "timestamp": "2019-10-06T13:31:38.081460Z",
+  "bytes_sent": 69713920,
+  "bytes_received": 95521956,
+  "share": null,
+  "client": {
+    "ip": "128.106.194.98",
+    "lat": "1.3325",
+    "lon": "103.8816",
+    "isp": "Singtel Enterprise",
+    "isprating": "3.7",
+    "rating": "0",
+    "ispdlavg": "0",
+    "ispulavg": "0",
+    "loggedin": "0",
+    "country": "SG"
+  }
+}

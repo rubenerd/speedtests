@@ -1,0 +1,36 @@
+{
+  "download": 92912090.26957513,
+  "upload": 58720855.516663805,
+  "ping": 70.448,
+  "server": {
+    "url": "http://speedtest10.vqbn.com:8080/speedtest/upload.php",
+    "lat": "1.3000",
+    "lon": "103.8000",
+    "name": "Singapore",
+    "country": "Republic of Singapore",
+    "cc": "SG",
+    "sponsor": "Viewqwest Pte Ltd",
+    "id": "2054",
+    "url2": "http://speedtest11.vqbn.com/speedtest/upload.php",
+    "host": "speedtest10.vqbn.com:8080",
+    "d": 6.131841503010369,
+    "latency": 70.448
+  },
+  "timestamp": "2019-09-27T09:40:07.758631Z",
+  "bytes_sent": 74375168,
+  "bytes_received": 116623642,
+  "share": null,
+  "client": {
+    "ip": "128.106.194.130",
+    "lat": "1.2929",
+    "lon": "103.8547",
+    "isp": "Singtel Enterprise",
+    "isprating": "3.7",
+    "rating": "0",
+    "ispdlavg": "0",
+    "ispulavg": "0",
+    "loggedin": "0",
+    "country": "SG"
+  }
+}
+

@@ -1,0 +1,35 @@
+{
+  "download": 5220843.048026351,
+  "upload": 5146372.126601181,
+  "ping": 7.94,
+  "server": {
+    "url": "http://speed.time.com.my:8080/speedtest/upload.php",
+    "lat": "3.0833",
+    "lon": "101.5333",
+    "name": "Shah Alam",
+    "country": "Malaysia",
+    "cc": "MY",
+    "sponsor": "TIME dotcom Bhd.",
+    "id": "6546",
+    "url2": "http://speedtest.time.com.my/speedtest/upload.php",
+    "host": "speed.time.com.my:8080",
+    "d": 8.675469198415026,
+    "latency": 7.94
+  },
+  "timestamp": "2019-10-01T09:17:41.867859Z",
+  "bytes_sent": 6873088,
+  "bytes_received": 6597968,
+  "share": null,
+  "client": {
+    "ip": "202.186.96.223",
+    "lat": "3.1065",
+    "lon": "101.6079",
+    "isp": "Tt Dotcom Sdn Bhd",
+    "isprating": "3.7",
+    "rating": "0",
+    "ispdlavg": "0",
+    "ispulavg": "0",
+    "loggedin": "0",
+    "country": "MY"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "download": 54775.73517786161,
+  "upload": 168127.0062015372,
+  "ping": 431.264,
+  "server": {
+    "url": "http://speed.macrolynx.com:8080/speedtest/upload.php",
+    "lat": "3.1357",
+    "lon": "101.6880",
+    "name": "Kuala Lumpur",
+    "country": "Malaysia",
+    "cc": "MY",
+    "sponsor": "Macro Lynx Sdn Bhd",
+    "id": "11850",
+    "host": "speed.macrolynx.com:8080",
+    "d": 3.97963815766342,
+    "latency": 431.264
+  },
+  "timestamp": "2019-10-02T11:13:53.841553Z",
+  "bytes_sent": 327680,
+  "bytes_received": 122880,
+  "share": null,
+  "client": {
+    "ip": "121.121.92.224",
+    "lat": "3.1671",
+    "lon": "101.6708",
+    "isp": "Maxis Communications",
+    "isprating": "3.7",
+    "rating": "0",
+    "ispdlavg": "0",
+    "ispulavg": "0",
+    "loggedin": "0",
+    "country": "MY"
+  }
+}
